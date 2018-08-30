@@ -18,10 +18,35 @@ The number of people with disabilities in India has been estimated at 70 million
 ## Setting up the website:
 
 First, install any of the two Xampp or Wamp (Wamp/ Xampp server is a Windows web development environment. It allows you to create web applications with Apache2, PHP, and a MySQL database. Alongside, PhpMyAdmin allows you to manage your databases easily.)
-•	Create a data base named “ no wound ”
-•	Import database from the link SQL database.
-•	Save platform files from the link: web files to htdocs folder.
-•	Browse link http://localhost:80/No_wound/index.php from your browser.
+
+*	Import database from the no_wound.sql file.
+*	Save platform files from the link: web files to htdocs folder.
+*	Browse link http://localhost:80/No_wound/index.php from your browser.
+
+![no wound](https://user-images.githubusercontent.com/11767495/44868484-8b848080-aca8-11e8-9f01-3777e35c0276.png)
+
+## Setting up and Playing the Game:
+
+*	Setup the Ms. Kinect Device on your PC/laptop and connect the device using ms Kinect Studio v2.0. 
+*	Open No wound.exe from No wound v1.1.zip
+*	A login screen will appear, After successful setup of wamp/xampp servers one can login into the game with defaults credentials as
+```
+ user-id: admin
+ 
+ Password: admin
+ ```
+* After a successful login, a game menu will appear. For now, the first two options are available. 
+
+
+*	On selecting the 1st option you will get a game screen, this will be an ergonomic exercise involving back movements and hand gestures. To play the game try moving your back to right or left to move the bar and throw a victory sign to launch the ball.
+
+
+
+
+
+
+
+
 
 
 
