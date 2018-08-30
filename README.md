@@ -1,6 +1,6 @@
 # No_wound_v.1.1
 
-##Unity3D - Xbox KInect based game for physiotherapy exercise.
+## Unity3D - Xbox KInect based game for physiotherapy exercise.
 
 About:
 ---
@@ -35,13 +35,18 @@ First, install any of the two Xampp or Wamp (Wamp/ Xampp server is a Windows web
  
  Password: admin
  ```
-* After a successful login, a game menu will appear. For now, the first two options are available. 
+* After a successful login, a game menu will appear. For now, the first two options are available.
 
+![img](https://user-images.githubusercontent.com/11767495/44868875-be7b4400-aca9-11e8-8eaf-a4ed01ee1960.png)
 
 *	On selecting the 1st option you will get a game screen, this will be an ergonomic exercise involving back movements and hand gestures. To play the game try moving your back to right or left to move the bar and throw a victory sign to launch the ball.
 
+![img2](https://user-images.githubusercontent.com/11767495/44868907-d357d780-aca9-11e8-8e94-81f068eccbf1.png)
 
+##	Few of the game play scenes:
 
+![img3](https://user-images.githubusercontent.com/11767495/44868905-d2bf4100-aca9-11e8-973d-2995239ae006.png)
+![img4](https://user-images.githubusercontent.com/11767495/44868906-d357d780-aca9-11e8-8590-c53dae6b4c93.png)
 
 
 
