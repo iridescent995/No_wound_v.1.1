@@ -1,10 +1,10 @@
 # No_wound_v.1.1
 
-## Unity3D - Xbox KInect based game for physiotherapy exercise.
+## Unity3D - Xbox Kinect based game for physiotherapy exercise.
 
 About:
 ---
-No wound is a gestural control system for Physical Therapy that supports rehabilitation exercises for patients having musculoskeletal conditions or permanent movement disorders like Cerebral Palsy or Ataxia using the Microsoft Kinect device.
+***No wound is a gestural control system for Physical Therapy that supports rehabilitation exercises for patients having musculoskeletal conditions or permanent movement disorders like Cerebral Palsy or Ataxia using the Microsoft Kinect device.***
 
 The number of people with disabilities in India has been estimated at 70 million thus revolutionizing the boring Physiotherapy exercises we have created a next generation multi-dimensional and multi-lingual game that the therapist can himself customize to required gestures and difficulty levels, depending on the current state of the patient.This off the shelf multi-sensory environment which will allow patients to play the games while his kinematic data will be available to the doctor for further analysis and deciding quality of improvement.
 
