@@ -8,7 +8,7 @@ About:
 
 The number of people with disabilities in India has been estimated at 70 million thus revolutionizing the boring Physiotherapy exercises we have created a next generation multi-dimensional and multi-lingual game that the therapist can himself customize to required gestures and difficulty levels, depending on the current state of the patient.This off the shelf multi-sensory environment which will allow patients to play the games while his kinematic data will be available to the doctor for further analysis and deciding quality of improvement.
 
-## Gameplay:
+## System Requirements:
 
 *	Microsoft Kinect Device.
 *	Ms Kinect Studio 2.0
