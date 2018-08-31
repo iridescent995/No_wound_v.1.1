@@ -21,7 +21,7 @@ First, install any of the two Xampp or Wamp (Wamp/ Xampp server is a Windows web
 
 *	Import database from the no_wound.sql file.
 *	Save platform files from the link: web files to htdocs folder.
-*	Browse link http://localhost:80/No_wound/index.php from your browser.
+*	Browse link http://localhost:80/ <folder name @htdocs> /index.php from your browser.
 
 ![no wound](https://user-images.githubusercontent.com/11767495/44868484-8b848080-aca8-11e8-9f01-3777e35c0276.png)
 
