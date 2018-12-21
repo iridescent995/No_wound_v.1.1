@@ -66,7 +66,7 @@
                                         <em>Yesterday</em>
                                     </span>
                                 </div>
-                                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                <div>Pellentesque eleifend...</div>
                             </a>
                         </li>
                         <li class="divider"></li>
@@ -78,7 +78,7 @@
                                         <em>Yesterday</em>
                                     </span>
                                 </div>
-                                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                <div>Pellentesque eleifend...</div>
                             </a>
                         </li>
                         <li class="divider"></li>
